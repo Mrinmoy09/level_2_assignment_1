@@ -35,7 +35,3 @@ In TypeScript, "any" represents any type and allows for any operation to be perf
     orderCoffee(CoffeeSize.Medium);
 
     A collection of related constants create an enum. Here, the CoffeeSize enum includes three constants with the string values "S," "M," and "L," respectively: Small, Medium, and Large. The CoffeeSize type argument, which is required by the orderCoffee function, limits the range of possibilities to those listed in the enum. The orderCoffee function is then called with the parameter CoffeeSize.Medium, which will print "Order received for an M coffee" to the console.
-# level_2_assignment_1
-# level_2_assignment_1
-# level_2_assignment_1
-# level_2_assignment_1
